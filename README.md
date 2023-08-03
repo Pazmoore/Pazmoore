@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pazmoore
-- 👀 I’m interested in FullStack Web Development
-- 🌱 I’m currently learning FullStack Web Development
+- 👀 I’m interested in Front-End Web Development
+- 🌱 I’m currently learning Front-End Web Development
 - 💞️ I’m looking to collaborate on Web designs
 - 📫 How to reach me omotesodoluwamu@gmail.com
 
